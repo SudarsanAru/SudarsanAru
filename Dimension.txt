@@ -1,0 +1,6 @@
+Dimension
+Facts
+Star Schema
+Partitions
+Design Tables using Synapse SQL
+Inner Joins
